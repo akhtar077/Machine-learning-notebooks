@@ -1,9 +1,3 @@
-Here, are some projects on machine learning on different datasets to predict which machine learning algorithm will be best suited for the given dataset.
-the following machine learning aLgorithm are used such as :
-linear regression
-logistic regression
-decision tree
-random forest
-support vector machine
-naive bayes
-hyper parameter tuining 
+Machine Learning Internship - Bahash.ai 🤖
+This repository contains the projects, assignments, and code implemented during my Machine Learning internship at Bahash.ai. The work focuses on building a strong foundation in Machine Learning using Python, covering supervised and unsupervised learning algorithms, model evaluation, and data preprocessing techniques.
+

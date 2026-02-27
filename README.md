@@ -9,6 +9,7 @@ Tools Used: Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
 📂 Projects Implemented
 During the internship, I developed the following key projects, applying various ML algorithms and techniques:
 1. Student Performance Dataset:
+   
 Dataset Overview
 The dataset, titled StudentPerformance.csv, contains records for 10,000 students and is used to predict a student's performance based on various academic and lifestyle factors. It includes the following features:
 Hours Studied: The total number of hours a student spent studying.
@@ -41,6 +42,7 @@ Root Mean Squared Error (RMSE): The square root of MSE, providing error values i
 R² Score: Indicates how well the independent variables explain the variance in the performance index.
 
 2.Mushroom Classification:
+
 Dataset Overview
 The dataset focuses on the classification of mushrooms, categorizing them as either edible (e) or poisonous (p) based on their physical characteristics. It consists of 8,124 rows and 23 columns, covering features such as:
 Cap features: Shape, surface, and color.
@@ -71,6 +73,7 @@ Gaussian Naive Bayes: A probabilistic model that yielded about 92.1% accuracy.
 K-Fold Cross-Validation: The notebook used cross_val_score (with 3 folds) to ensure the models weren't just "lucky" on one specific split, providing a more robust measure of performance across different subsets of the data.
 
 3.Drugs Classification:
+
 Dataset Overview
 The dataset contains information about patients and the specific drug that was prescribed to them based on their health metrics. It includes 200 rows and 6 columns with the following features:
 Demographics: Age and Sex.
